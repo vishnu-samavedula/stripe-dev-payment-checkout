@@ -1,4 +1,4 @@
-# This project was developed using Stripe's integration builder assist
+### This project was developed using Stripe's integration builder assist
 
 # Accept a Payment with Stripe Checkout
 
